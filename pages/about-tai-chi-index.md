@@ -3,7 +3,7 @@ layout: sidebar-gateway
 sidebar_align: right
 title: About Tai chi
 tilestag: tiles-abouttaichi
-permalink: /about-taichi/
+permalink: /about-tai-chi/
 intro_paragraph: |-
  Tai Chi, Qi Gong and the other practises we teach all can help health and wellbeing in many ways and you cannot get the benefit of them simply by by reading books because they are practical skills. They do however have a fascinating history. Some students, also find reading about the practises a helpful addition to regular practise that enriches their experience of these arts.
 

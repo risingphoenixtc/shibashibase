@@ -1,3 +1,16 @@
+---
+layout: sidebar
+sidebar_align: right
+title: Classes
+permalink: /classes.html
+---
+
+### To Book 
+
+To book to come to a class just [**Contact me**](#contact-trigger){:.contact-trigger .button .small} using any of the methods at the bottom of the page.
+
+**If you aren't sure which class is right for you just get in touch, we are a very relaxed and friendly school and we can help you decide what is best for you.**
+
 ## Regular Classes
 
 | Class | Day | Time | Dates | Where? |   |
@@ -20,3 +33,4 @@
 |:--------|:-------:|--------:|--------:|--------:||--------:|
 | Tai Chi / Dao fundamentals with Barry Spendlove | Sat/Sun |  March  28/29th | All Day | tbc | [maps link tbc](#) |
 | Open Tai Chi Workshop | Sat | June  27th |10-12.30 & 13.00-14.30| tbc (Penarth) | [maps link tbc](#) |
+

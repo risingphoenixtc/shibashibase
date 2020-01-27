@@ -1,9 +1,14 @@
 ---
 layout: sidebar
 sidebar_align: right
-title: Consultation Types
+title: Yin  and Yang
 image: /images/uploads/calendar-pin-closeup551x297.jpg
-permalink: /about-acupuncture/consultation-types.html
+permalink: /about-tai-chi/yin-and-yang.html
 ---
-{% include consultation-types.html %}
-{% include consultation-prices-table.html %}
+ Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.
+
+## Heading 2
+  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.
+### Heading 3
+  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.  Put copy here.
+
