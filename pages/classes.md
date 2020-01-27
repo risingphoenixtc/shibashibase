@@ -7,7 +7,7 @@ permalink: /classes.html
 
 ### To Book 
 
-To book to come to a class just [**Contact me**](#contact-trigger){:.contact-trigger .button .small} using any of the methods at the bottom of the page.
+To book to come to a class just [**Contact us**](#contact-trigger){:.contact-trigger .button .small} using any of the methods at the bottom of the page.
 
 **If you aren't sure which class is right for you just get in touch, we are a very relaxed and friendly school and we can help you decide what is best for you.**
 
@@ -20,7 +20,7 @@ To book to come to a class just [**Contact me**](#contact-trigger){:.contact-tri
 | New Short Form & Qi Gong| Thursday | 6.30pm - 7.50pm |Jan 16th to Easter | Albert Rd Methodist Church Community Center, Penarth  | [maps link](http://www.streetmap.co.uk/map.srf?X=317027&Y=176698&A=Y&Z=110) |
 
 
-##Regular Class Prices
+## Regular Class Prices
 
 | Ad Hoc  | 10 week term | 
 | £xx/class | £xx /term |
